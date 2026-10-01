@@ -1,0 +1,58 @@
+GUIDE « TOPOGRAPHIE ET BÂTI 3D » — dossier complet
+Version du 20 septembre 2026
+
+CONTENU
+  index.html            Le site complet (page d'accueil + 14 parties, français et anglais).
+                        Tout est dans ce seul fichier : styles, mise en page et schémas.
+  Guide_Topo_3D_FR.pdf  Le guide en français, à imprimer ou à envoyer.
+  Guide_Topo_3D_EN.pdf  Le même guide en anglais.
+
+LIRE LE SITE SUR SON ORDINATEUR
+  Double-cliquez sur index.html : il s'ouvre dans votre navigateur, sans internet.
+  Les liens vers les sites de téléchargement demandent, eux, une connexion.
+
+METTRE LE SITE EN LIGNE (lien ouvert à tous, gratuit)
+  Netlify : allez sur https://app.netlify.com/drop et glissez ce dossier entier
+            dans la page. Créez un compte gratuit pour garder le lien.
+  GitHub Pages : créez un dépôt public, envoyez ces fichiers, puis activez
+            Settings > Pages sur la branche main.
+  Gardez les trois fichiers ensemble : les liens vers les PDF, en bas du site,
+  fonctionnent seulement si les PDF sont à côté de index.html.
+
+CHANGER DE LANGUE
+  Bouton FR / EN en haut à droite. On peut aussi ouvrir index.html?lang=en.
+
+LIEN VERS UNE PARTIE PRÉCISE
+  Ajoutez à la fin de l'adresse : #/theorie #/utm #/bases #/methode #/choisir #/monde
+  #/france #/vietnam #/rapide #/gerer #/logiciels #/recettes #/pieges #/glossaire
+
+À VÉRIFIER AVANT DE DIFFUSER
+  - Les termes vietnamiens du glossaire (à faire relire).
+  - Quelques chiffres de la partie théorique (satellites GPS, précision Galileo HAS,
+    écart géoïde/ellipsoïde en France).
+
+RACCOURCI SUR LE BUREAU, AVEC L'ICÔNE
+  Le dossier « icone » contient le logo du guide :
+    Guide-Topo-3D.ico    pour Windows
+    Guide-Topo-3D.icns   pour macOS
+    Guide-Topo-3D.svg et les PNG pour tout le reste
+
+  WINDOWS
+    1. Posez le dossier « site-guide-topo » où vous voulez (par exemple sur le Bureau).
+    2. Ouvrez « Ouvrir le guide.url » avec le Bloc-notes et remplacez VOTRE_NOM
+       et le chemin par l'emplacement réel du dossier. Enregistrez.
+    3. Faites un clic droit sur ce fichier > Copier, puis collez-le sur le Bureau.
+    Autre méthode, sans modifier de fichier : clic droit sur le Bureau >
+    Nouveau > Raccourci, puis indiquez le chemin de index.html. Ensuite,
+    clic droit sur le raccourci > Propriétés > Changer d'icône, et choisissez
+    icone\Guide-Topo-3D.ico.
+
+  MACOS
+    1. Glissez index.html sur le Bureau en maintenant Commande + Option
+       (cela crée un alias).
+    2. Ouvrez Guide-Topo-3D.icns, sélectionnez l'image et copiez-la (Commande + C).
+    3. Clic droit sur l'alias > Lire les informations, cliquez sur la petite icône
+       en haut à gauche, puis collez (Commande + V).
+
+  RACCOURCI VERS LE SITE EN LIGNE
+    Même méthode : mettez l'adresse du site en ligne à la place du chemin du fichier.
